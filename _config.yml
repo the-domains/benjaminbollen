@@ -1,0 +1,28 @@
+name: benjaminbollen
+favicon: null
+layout_spectrum: 0.5745232701301575
+typography_spectrum: 0.24499472929164767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6771506597287953
+  lightness: 0.43441721401177347
+  saturation: 0.025060188956558704
+  rhythmicContrast: 0.9499049726873636
+purpose: []
